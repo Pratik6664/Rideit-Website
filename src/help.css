@@ -1,0 +1,82 @@
+
+.Helpdash{
+   text-align: center;
+}
+.helpheader{
+   background-color:  rgb(241, 90, 36); 
+   height: 250px;
+}
+.helptitle{
+    padding: 50px 0px 50px 0px;
+}
+.HPsearch{
+ padding: 10px;  
+ width: 460px; 
+ border-radius: 15px;
+ border: none;
+}
+.helptopicheader{
+   text-align: center;
+   margin: 30px 0px 30px 270px ; 
+   border-bottom: solid 1px gray;
+   padding: 15px;
+   width: 40%;
+}
+.Helptopicsection1{
+   width: 400px;
+   margin-left: 25%;
+}
+.Helptopicsection2{
+  width: 400px;
+  margin-left: 30px;
+}
+.getstart{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+.helpsections{
+    display: flex;
+    flex-direction: row;
+   /* margin-left: 200px; */
+}
+.helptopic1{
+   margin: 20px;
+   border-bottom: gray  1px solid; 
+   padding-bottom: 20px;
+}
+.helpicons{
+    color:  rgb(241, 90, 36);
+    margin: 5px;
+    align-items: center;
+    text-align: center;
+}
+.helpdash2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+}
+.support{
+  width: 15%;  
+  height: 150px;
+  border: solid grey;
+  border-radius: 8px;
+  margin-top: 100px;
+  margin-right: 90px;
+
+}
+.supportpara{
+   text-align: center; 
+}
+.supporttitle{
+   text-align: center; 
+}
+.suportbtn{
+   margin-left: 40px;
+   background-color: rgb(241, 90, 36) ;
+   border: none;
+   padding: 4px;
+   margin-top: 18px;
+   border-radius: 8px;
+   cursor: pointer;
+}

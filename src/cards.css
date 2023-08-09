@@ -1,0 +1,174 @@
+.cardcontainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 0px 20px;
+}
+.card{
+height: 260px;
+width: 270px;
+ margin: 10px;
+ padding: 20px;
+ justify-content: center;
+ text-align: center;
+ border: 1px solid black;
+ border-radius: 9px ;
+}
+
+.cardimg1{
+ width: 100px;
+
+}
+.cardimg2{
+ width: 100px;
+}
+.cardimg3{
+ width: 100px;
+}
+.cardimg4{
+ width: 100px;
+}
+.cardimg1{
+ width: 100px;
+}
+.cardpara{
+  color: gray;
+}
+.cardpara:hover{
+cursor: pointer;
+color: black;
+}
+.flowheader{
+ text-align: center;
+ font-size: 30px;
+ color: gray;
+ margin: 50px;
+ cursor: pointer;
+}
+.flowheader:hover{
+  color: rgb(16, 16, 16);
+}
+.space{
+  display: flex;
+  align-items: center;
+}
+.flowcard{
+height: 250px;
+width: 250px;
+ /* margin: 10px;
+ padding: 20px; */
+ justify-content: center;
+ text-align: center;
+ border-radius: 9px;
+ margin: 20px;
+}
+.cardcontiner2{
+  display: flex;
+  flex-direction: row;
+  padding: 0px 20px;
+  margin-left: 95px;
+}
+.flowcardimg1{
+  margin: 15px;
+  width: 130px;
+}
+.flowcardimg2{
+  margin: 15px;
+width: 130px;
+}
+.flowcardimg3{
+  margin: 15px;
+  width: 130px;
+}
+.flowcardimg4{
+  margin: 15px;
+  margin-top: 40px;
+  width: 160px;
+}
+.dotline{
+  text-align: center;
+  margin-top: 100px;
+}
+.flowarrow{
+  width: 50px;
+  height: 70px;
+  margin-top: 80px;
+}
+.containerleft{
+  /* border: solid 1px black;  */
+  width: 50%;
+}
+.leftimgheader{
+ font-size:25px;
+text-align: end;
+margin-top: 40px;
+}
+.containerright{
+  /* border: 1px solid black; */
+  margin-left: 80px;
+}
+.leftimg{
+  width: 60%;
+  margin-left: 140px;
+  margin-top: 70px;
+}
+.cont3rightheader{
+  font-size: 40px;
+  text-align: center;
+}
+.container3{
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+  margin-bottom: 90px;
+}
+.cont3rightheader1{
+ text-align: end;
+ color: rgb(228, 68, 9); 
+ font-size: 20px;
+}
+.helmetimg{
+  width: 100px;
+}
+.cont3card1{
+ 
+}
+.helmet{
+  display: flex;
+  flex-direction: row;
+  margin: 40px 70px 0 70px;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 5px;
+}
+.helmetimg{
+  margin-right: 10px;
+}
+.helmettext{
+  color: rgb(87, 81, 81);
+}
+.helmettext:hover{
+  color: black;
+}
+.dash3footer{
+  background-color: rgb(241, 90, 36);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  height: 160px;
+}
+.footertitle{
+ padding: 5px;
+ margin-right: 100px;
+}
+.footerpara{
+margin: 5px;
+}
+.loginbtn{
+  padding: 15px;
+  background-color: rgb(5, 153, 5);
+  border: none;
+}

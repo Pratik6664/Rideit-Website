@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Aboutus-main-dash{
+    background-image: url(../public/aboutusbg.jpg);
+    background-size: cover;
+    height: 45vh;
+    -webkit-background-size: cover ;
+    background-color:  rgb(68, 68, 68);
+    background-blend-mode: multiply;
+}
+.aboutusheader{
+    text-align: center;
+    line-height: 250px;
+}
+.aboutusheader1{
+ font-size: 40px;
+ color: rgb(240, 211, 200);
+}
+.aboutusmid{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+}
+.aboutuslefttsection{
+   margin: 20px; 
+   width: 40%;
+}
+.aboutusleftheader{
+    text-align: center;
+    padding: 20px;
+    margin-top: 60px;
+}
+.aboutusleftectionimg{
+   width: 270px;
+   margin-top: 60px;
+   margin-right: 140px;
+}

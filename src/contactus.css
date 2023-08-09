@@ -1,0 +1,99 @@
+
+
+.contactus_dash{
+    background-image: url(../public/mainbg.jpg);
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.CUboxs{
+  align-items: center;
+  text-align: center; 
+  width: 30%; 
+  margin:100px 150px 20px 50px;
+}
+
+.CUicons{
+   display: flex;
+   flex-direction: row; 
+   align-items: center;
+   justify-content: center; 
+}
+.CUtitle{
+   padding: 20px; 
+   text-align: center;
+}
+.namesection{
+    display: flex;
+    flex-direction: none;
+}
+.CUicon1{
+   margin: 10px; 
+   color:  rgb(241, 90, 36);
+  font-size: 28px;
+}
+.CUboxs1{
+    margin: 50px;
+}
+.CUboxs2{
+    margin: 50px;
+}
+.CUboxs3{
+    margin: 50px;
+}
+.CUpara{
+   text-align: center; 
+   align-items: center;
+}
+.CUbox2{
+    margin-top: 190px;
+    width: 50%;
+    margin-left:80px;
+}
+.CUinput{
+   border: none; 
+   border-bottom: solid black;
+   background-color: transparent;
+   outline: none;
+}
+
+
+.CUinputmail{
+   border: none; 
+   border-bottom: solid black;
+   width: 65%;
+   background-color: transparent;
+   outline: none;
+}
+.CUinputmsg{
+   border: none; 
+   border-bottom: solid black;
+   width: 65%;
+   background-color: transparent;
+   outline: none;
+   height: 90px;
+}
+.Mailsection{
+   margin-bottom: 40px;
+}
+.namesection{
+   margin-bottom: 40px;
+}
+.firstname{
+   margin-right: 60px;
+}
+.CUbtn{
+color: #fff;
+ width: 30%;
+ height: 40px;
+ align-items: center;
+ justify-content: center;
+ border: none;  
+ background-color:  rgb(241, 90, 36); 
+ padding: 4px;
+ /* margin-left: 130px; */
+ margin-top: 40px;
+ border-radius: 10px;
+}

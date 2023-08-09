@@ -1,0 +1,77 @@
+
+*{
+ margin: 0;
+ padding: 0; 
+}
+.mainbar{
+  display: flex;
+  padding: 5px;
+  justify-content: space-around;
+  background-color: rgb(241, 90, 36);
+  
+}
+.navbar{
+  display: flex;
+  /* background-color: rgb(226, 171, 189); */
+  width: 60%;
+}
+ .logotext{
+  text-decoration: none;
+  font-weight: 650;
+  font-size: 25px;
+  margin-left: 50px;
+  color: white;
+
+ }
+.nav-list{
+ display: flex; 
+ list-style: none;
+ text-align: center;
+ align-items: center;
+ margin-left: 100px;
+}
+.nav-list :hover {
+  zoom: normal;
+  color: rgb(106, 85, 85);
+}
+.nav-opt{
+  text-decoration: none;
+  margin-left: 40px;
+  color: white;
+}
+.nav-right{
+  text-align: center;
+ align-items: center;
+  /* background-color: red; */
+  width: 40%;
+}
+.searchtext{
+  margin-right: 10px;
+  margin-left: 90px;
+ justify-content: center;
+  align-items: center;
+}
+.nav-search{
+margin-right: 15px;
+}
+
+.searchbar{
+ align-items: center;
+ border-radius: 10px;
+ margin-right: 20px;
+ padding: 2px;
+}
+.login{
+ text-decoration: none; 
+ font-weight: 600;
+ margin-left: 10px;
+}
+.login:hover{
+  color: rgb(106, 85, 85);
+}
+.background{
+  background: rgb(0, 0, 0, o.7) url('../public/mainbg.jpg');
+  background-size: cover;
+  background-blend-mode: darken;
+}
+  
