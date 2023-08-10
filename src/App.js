@@ -6,6 +6,7 @@ import Cards from "./Cards";
 import Contactus from "./Contactus";
 import Help from "./Help";
 import Aboutus from "./Aboutus";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -14,10 +15,10 @@ function App() {
      {/* <Navbar/> 
      <Home/>
      <Cards/>  */}
-     {/* <Contactus/> */}
+     <Contactus/>
      {/* <Help/> */}
-     <Aboutus/>
-
+     {/* <Aboutus/> */}
+      {/* <Footer/> */}
 
     </div>
     </>

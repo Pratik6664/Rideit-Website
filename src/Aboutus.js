@@ -1,10 +1,12 @@
 import React from "react";
 import "./aboutus.css";
 import Navbar from "./Navbar";
+import Footer from "./Footer";
 
 function Aboutus() {
   return (
     <>
+    <div>
       <div className="Aboutus-main-dash">
         <Navbar />
         <div className="aboutusheader">
@@ -26,7 +28,9 @@ function Aboutus() {
           </div>
         </div>
       </div>
+      </div>
     </>
+     
   );
 }
 

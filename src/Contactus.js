@@ -4,6 +4,7 @@ import Navbar from "./Navbar";
 import { GoLocation } from "react-icons/go";
 import { BsTelephoneInbound } from "react-icons/bs";
 import { Ri24HoursFill } from "react-icons/ri";
+import Footer from "./Footer";
 
 function Contactus() {
   return (
@@ -70,7 +71,7 @@ function Contactus() {
            <button type="submit" className="CUbtn">Submit</button>
         </div>
       </div>
-   
+   <Footer/>
     </>
   );
 }

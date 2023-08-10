@@ -1,5 +1,6 @@
 import React from "react";
 import "./cards.css";
+import Footer from "./Footer";
 
 function Cards() {
   return (
@@ -94,15 +95,7 @@ function Cards() {
           </div>
       </div>
     </div>
-  <div className="dash3footer">
-    <div className="dash3footertext">
-     <h2 className="footertitle">Grow your business with Ride It.</h2>
-     <p  className="footerpara">List your bike and become a member of rideit family.</p> 
-    </div>
-    <div className="login">
-    <button className="loginbtn">User Login</button>
-    </div>
-    </div>  
+ <Footer/>
 
     </>
   );

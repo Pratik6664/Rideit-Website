@@ -1,0 +1,79 @@
+
+.mainfooter{
+    height: 300px;
+    background-color: rgb(155, 147, 147);
+    padding: 30px;
+}
+.dash3footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   justify-content: space-around;
+  }
+  .footertitlecontent1{
+   /* padding: 5px; */
+   margin-bottom: 15px;
+
+  }
+  .footerpara{
+  margin: 5px;
+  }
+ 
+  .footercontentcallicon{
+   
+  }
+  .footercontentbtn{
+    text-decoration: none;
+    color: black;
+}
+  .footercontentaboutus{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    text-align: center;
+  }
+  .footercontentaboutus:hover{
+    color: orangered;
+  }
+.Followus{
+ display: flex;
+ flex-direction: row;
+ margin-top: 50px;
+ align-items: center;
+}
+.Followusleft{
+   margin-left: 20px ; 
+}
+.Followusright{
+    margin-left: 200px;
+}
+  .footertitlecontentdown1{
+    padding: 5px;
+    width: 15%;
+    margin-bottom: 15px;
+    margin-right: 500px;
+    margin-left: 90px;
+  }
+  .footertitlecontentdown2{
+    width: 40%;
+    padding: 5px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+  }
+  .Followusleftdiv{
+   margin-left: 90px; 
+  }
+  .Followuslefticonbtn{
+    text-decoration: none;
+  }
+  .Followuslefticon{
+    color: black;
+    margin: 5px;
+    font-size: 20px;
+  }
+  .playstoreicon{
+    width: 15%;
+    margin: 7px;
+  }
+
+ 

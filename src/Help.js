@@ -6,11 +6,12 @@ import { BsFillFileEarmarkLock2Fill } from "react-icons/bs";
 import { MdOutlineManageAccounts } from "react-icons/md";
 import { BsPhone } from "react-icons/bs";
 import { SiXdadevelopers } from "react-icons/si";
+import Footer from "./Footer";
 
 function Help() {
   return (
     <>
-      <div>
+      <div className="mainhelp">
         <div className="Helpdash">
           <div className="helpheader">
             <h2 className="helptitle">How Can We Help?</h2>
@@ -95,6 +96,7 @@ function Help() {
         </div>
       </div>
       </div>
+      <Footer/>
     </>
   );
 }

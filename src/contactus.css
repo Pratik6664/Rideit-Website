@@ -1,7 +1,9 @@
 
 
 .contactus_dash{
-    background-image: url(../public/mainbg.jpg);
+    background-image: url(../public/contactusbg.jpg);
+    background-color: rgb(85, 85, 85);
+    background-blend-mode: multiply;
     display: flex;
     flex-direction: row;
     height: 100vh;
