@@ -1,41 +1,40 @@
 import React from "react";
 import "./navbar.css";
-import  {BiSearch}  from "react-icons/bi";
-
+import { NavLink } from "react-router-dom";
 function Navbar() {
   return (
     <>
     <div className=" "> 
       <div className="mainbar">
-      <a href="#" className="logotext">
+      <NavLink to="/" className="logotext">
             Ride it
-          </a>
+          </NavLink>
         <nav className="navbar">
           <ul className="nav-list">
             <li>
-              <a className="nav-opt" href="/Home.js">
+              <NavLink to="/" className="nav-opt" >
                 Home
-              </a>
+              </NavLink>
             </li>
             <li>
-              <a className="nav-opt" href="/Aboutus.js">
+              <NavLink to="/about" className="nav-opt" >
                 About Us
-              </a>
+              </NavLink>
             </li>
-            <li>
-              <a className="nav-opt" href="#">
+            {/* <li>
+              <a className="nav-opt" >
                 Our Services
               </a>
-            </li>
+            </li> */}
             <li>
-              <a className="nav-opt" href="/Contctus.js">
+              <NavLink to="/contact" className="nav-opt">
                 Contact Us
-              </a>
+              </NavLink>
             </li>
             <li>
-              <a className="nav-opt" href="/Help.js">
+              <NavLink to="/help" className="nav-opt" >
                 Help
-              </a>
+              </NavLink >
             </li>
           </ul>
         </nav>

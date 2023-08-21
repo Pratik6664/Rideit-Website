@@ -1,11 +1,16 @@
 import React from "react";
 import "./home.css";
+import Cards from "./Cards";
+import Navbar from "./Navbar";
+import Footer from "./Footer";
+
 function Home() {
   return (
     <>
+    <Navbar/>
       <div className="mainbox">
         <div className="firsthalf">
-          <img className="displayimg" src="displayimg.png"></img>
+          <img className="displayimg" src="displayimg.png" alt=""></img>
           <text className="imgheader">
             <h1>RENT BIKE IN PUNE</h1>
             <h4>Rent from India's Largest Fleet of Motorcycles.</h4>
@@ -18,9 +23,10 @@ function Home() {
             <h4>Rent a bike for daily, weekly, monthly, and longterm basis.</h4>
           </text>
           <div className="btnbook">
+            <a href="http://wa.me/+918669622232" target="_blank">
             <button className="bookingbtn1">
-              Rent a Bike for day to a month
-            </button>
+             connect us Via Whatsapp
+            </button></a>
             <button className="bookingbtn2">Rent a Bike for 3-9 month</button>
           </div>
         </div>
@@ -44,6 +50,8 @@ function Home() {
           <div style={{ flex: 1, height: "1px", backgroundColor: "black" }} />
         </div>
       </div>
+    <Cards/>
+      <Footer/>
    
     
     </>

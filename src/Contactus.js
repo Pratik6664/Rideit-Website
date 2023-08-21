@@ -21,8 +21,8 @@ function Contactus() {
             <h3 className="CUicontitle">CALL US</h3>
           </div>
           <p className="CUpara">
-            <a className="CUno">+91 9623152178 </a> <br></br>
-            <a className="CUno"> +91 8999020837 </a>
+            <p className="CUno">+91 9623152178 </p> <br></br>
+            <p className="CUno"> +91 8999020837 </p>
           </p>
       </div>
 

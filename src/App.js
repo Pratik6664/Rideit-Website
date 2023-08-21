@@ -1,27 +1,27 @@
-
-import Navbar from "./Navbar";
-import './App.css';
+import "./App.css";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./Home";
-import Cards from "./Cards";
-import Contactus from "./Contactus";
-import Help from "./Help";
 import Aboutus from "./Aboutus";
-import Footer from "./Footer";
-
+import Contactus from "./Contactus"
+import Help from "./Help"
+import RequestAccountRemoval from "./RequestAccountRemoval";
+import PrivacyPolicy from "./PrivacyPolicy";
+import TermsAndCondition from "./TermsAndCondition";
 function App() {
   return (
-    <>
-    <div className="App">
-     {/* <Navbar/> 
-     <Home/>
-     <Cards/>  */}
-     <Contactus/>
-     {/* <Help/> */}
-     {/* <Aboutus/> */}
-      {/* <Footer/> */}
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home/>} />
+        <Route path="/about" element={<Aboutus/>} />
+        <Route path="/contact" element={<Contactus/>} />
+        <Route path="/help" element={<Help/>} />
+        <Route path="/removeAccount" element={<RequestAccountRemoval/>} />
+        <Route path="/privacyPolicy" element={<PrivacyPolicy/>} />
+        <Route path="/termsAndCondition" element={<TermsAndCondition/>} />
 
-    </div>
-    </>
+        
+      </Routes>
+    </BrowserRouter>
   );
 }
 

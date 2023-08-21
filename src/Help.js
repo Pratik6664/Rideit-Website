@@ -7,10 +7,12 @@ import { MdOutlineManageAccounts } from "react-icons/md";
 import { BsPhone } from "react-icons/bs";
 import { SiXdadevelopers } from "react-icons/si";
 import Footer from "./Footer";
+import Navbar from "./Navbar";
 
 function Help() {
   return (
     <>
+    <Navbar/>
       <div className="mainhelp">
         <div className="Helpdash">
           <div className="helpheader">

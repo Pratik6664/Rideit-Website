@@ -5,7 +5,7 @@
 .Aboutus-main-dash{
     background-image: url(../public/aboutusbg.jpg);
     background-size: cover;
-    height: 45vh;
+   height: 500px;
     -webkit-background-size: cover ;
     background-color:  rgb(68, 68, 68);
     background-blend-mode: multiply;
@@ -36,4 +36,24 @@
    width: 270px;
    margin-top: 60px;
    margin-right: 140px;
+}
+.ourVision{
+    padding:0 50px;
+    width: "50%";
+}
+.ourServices{
+    margin: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: "50%";
+}
+.servicesTital{
+    padding: 30px;
+    font-size: 30px;
+}
+.servicesheading{
+    font-size: 20;
+    padding: 10px 0 20px 0;
 }
