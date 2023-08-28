@@ -479,36 +479,178 @@ const TermsAndCondition = () => {
           for more details regarding use of information.
         </p>
         <h2>20. Assumption of risk</h2>
-        <p>FOR OPERATORS AND PASSENGERS OF VEHICLES (INCLUDING PROTOTYPE VEHICLES) OWNED OR CONTROLLED BY Royalbison Autorentals India Pvt Ltd. OPERATING UNDER THE Rideit brand name.</p>
-        <p>The rider has been given the opportunity to operate ride upon or otherwise use one or more motorcycles or other vehicles owned or controlled by Royalbison Autorentals India Pvt Ltd, OPERATING UNDER THE Rideit BRAND.; (collectively, the “Company”; each such company owned or controlled vehicle is referred to herein as a “C.O.C.V.”),</p>
-        <p>The rider fully understands and acknowledges that operating or riding on a vehicle is an activity that has its own unique, inherent risks, and that serious injury or death could result from operating or riding on a C.O.C.V. through no fault of their own. The rider (lessee) is voluntarily choosing to operate and/or ride upon C.O.C.V.s.</p>
-        <p>By accepting the terms and conditions, THE RIDER EXPRESSLY AGREE TO ASSUME THE ENTIRE RISK OF ANY ACCIDENTS, PROPERTY DAMAGE OR PERSONAL INJURY, INCLUDING PERMANENT DISABILITY, PARALYSIS AND DEATH, THAT THEY MIGHT SUFFER AS A RESULT OF THEM OPERATING OR RIDING ON A C.O.C.V.</p>
-        <p>Without limiting the foregoing, THE RIDER ASSUME ALL RISKS ARISING FROM THE FOLLOWING:</p>
+        <p>
+          FOR OPERATORS AND PASSENGERS OF VEHICLES (INCLUDING PROTOTYPE
+          VEHICLES) OWNED OR CONTROLLED BY Royalbison Autorentals India Pvt Ltd.
+          OPERATING UNDER THE Rideit brand name.
+        </p>
+        <p>
+          The rider has been given the opportunity to operate ride upon or
+          otherwise use one or more motorcycles or other vehicles owned or
+          controlled by Royalbison Autorentals India Pvt Ltd, OPERATING UNDER
+          THE Rideit BRAND.; (collectively, the “Company”; each such company
+          owned or controlled vehicle is referred to herein as a “C.O.C.V.”),
+        </p>
+        <p>
+          The rider fully understands and acknowledges that operating or riding
+          on a vehicle is an activity that has its own unique, inherent risks,
+          and that serious injury or death could result from operating or riding
+          on a C.O.C.V. through no fault of their own. The rider (lessee) is
+          voluntarily choosing to operate and/or ride upon C.O.C.V.s.
+        </p>
+        <p>
+          By accepting the terms and conditions, THE RIDER EXPRESSLY AGREE TO
+          ASSUME THE ENTIRE RISK OF ANY ACCIDENTS, PROPERTY DAMAGE OR PERSONAL
+          INJURY, INCLUDING PERMANENT DISABILITY, PARALYSIS AND DEATH, THAT THEY
+          MIGHT SUFFER AS A RESULT OF THEM OPERATING OR RIDING ON A C.O.C.V.
+        </p>
+        <p>
+          Without limiting the foregoing, THE RIDER ASSUME ALL RISKS ARISING
+          FROM THE FOLLOWING:
+        </p>
         <ol>
-          <li>the condition or safety of the C.O.C.V.s, any other vehicles or equipment, or any roadways, premises or property</li>
-          <li>the repair or maintenance, or lack thereof, of the C.O.C.V.s or any other vehicles or equipment</li>
-          <li>the use of, or failure to use, any safety devices or safeguards</li>
-          <li>the conditions, qualifications, instructions, rules or procedures under which any C.O.C.V is used</li>
-          <li>the violation by the user or by other operators or passengers of any C.O.C.V. User Eligibility or Program Rules</li>
-          <li>any defective or unreasonably dangerous products, components or C.O.C.V.s</li>
+          <li>
+            the condition or safety of the C.O.C.V.s, any other vehicles or
+            equipment, or any roadways, premises or property
+          </li>
+          <li>
+            the repair or maintenance, or lack thereof, of the C.O.C.V.s or any
+            other vehicles or equipment
+          </li>
+          <li>
+            the use of, or failure to use, any safety devices or safeguards
+          </li>
+          <li>
+            the conditions, qualifications, instructions, rules or procedures
+            under which any C.O.C.V is used
+          </li>
+          <li>
+            the violation by the user or by other operators or passengers of any
+            C.O.C.V. User Eligibility or Program Rules
+          </li>
+          <li>
+            any defective or unreasonably dangerous products, components or
+            C.O.C.V.s
+          </li>
           <li>the weather conditions during operation of any C.O.C.V.s and</li>
           <li>single and/or multi-vehicle accidents.</li>
         </ol>
-        <p>The rider(lessee) acknowledges that some or all of the C.O.C.V.s that the user is allowed to operate, ride upon or otherwise use may be prototypes or pre-production models. It’s understood that prototype and pre-production C.O.C.V.s are not manufactured for general consumer use and are not fully tested. Also, understood point is that there is increased risk involved in operating or riding upon prototype or pre-production C.O.C.V.s, and THE RIDER(LESSEE) AGREE TO ASSUME THAT RISK.</p>
-        <p>The rider at the time of booking and riding declares not to be under the influence of alcohol, drugs, other illegal substances, or any medications that may impair their judgment or their ability to operate or ride on a C.O.C.V. The rider agrees that they will not operate or ride on any C.O.C.V. while under the influence of alcohol, drugs, other illegal substances or any such medications.</p>
-        <p>The rider agrees that they will not operate or ride upon any C.O.C.V. unless they have first examined and satisfied themselves, that the C.O.C.V. is in good operating condition, and that they fully understand how to operate and ride on that C.O.C.V.</p>
-        <p>The rider agrees to operate or ride on each C.O.C.V. safely, defensively and within the limits of the law and own abilities. The rider(lessee) agrees to comply with all C.O.C.V. user eligibility and program rules.</p>
-        <p>The rider also agrees to allow the company and their respective dealers to contact them at the address, telephone number and e-mail address provided below and gather additional information about the C.O.C.V.s and/or additional information about other goods and services in which one may be interested.</p>
+        <p>
+          The rider(lessee) acknowledges that some or all of the C.O.C.V.s that
+          the user is allowed to operate, ride upon or otherwise use may be
+          prototypes or pre-production models. It’s understood that prototype
+          and pre-production C.O.C.V.s are not manufactured for general consumer
+          use and are not fully tested. Also, understood point is that there is
+          increased risk involved in operating or riding upon prototype or
+          pre-production C.O.C.V.s, and THE RIDER(LESSEE) AGREE TO ASSUME THAT
+          RISK.
+        </p>
+        <p>
+          The rider at the time of booking and riding declares not to be under
+          the influence of alcohol, drugs, other illegal substances, or any
+          medications that may impair their judgment or their ability to operate
+          or ride on a C.O.C.V. The rider agrees that they will not operate or
+          ride on any C.O.C.V. while under the influence of alcohol, drugs,
+          other illegal substances or any such medications.
+        </p>
+        <p>
+          The rider agrees that they will not operate or ride upon any C.O.C.V.
+          unless they have first examined and satisfied themselves, that the
+          C.O.C.V. is in good operating condition, and that they fully
+          understand how to operate and ride on that C.O.C.V.
+        </p>
+        <p>
+          The rider agrees to operate or ride on each C.O.C.V. safely,
+          defensively and within the limits of the law and own abilities. The
+          rider(lessee) agrees to comply with all C.O.C.V. user eligibility and
+          program rules.
+        </p>
+        <p>
+          The rider also agrees to allow the company and their respective
+          dealers to contact them at the address, telephone number and e-mail
+          address provided below and gather additional information about the
+          C.O.C.V.s and/or additional information about other goods and services
+          in which one may be interested.
+        </p>
 
         <h2>21. Waiver and release of liability</h2>
-        <p>FOR OPERATORS AND PASSENGERS OF VEHICLES (INCLUDING PROTOTYPE VEHICLES) OWNED OR CONTROLLED BY ROYAlBISON AUTORENTALS INDIA PVT LTD, OPERATING UNDER THE Rideit BRAND.</p>
-        <p>The rider(Lessee) on behalf of all heirs, personal representatives, administrators, executors, successors and assigns (collectively, “Heirs and Assigns”), for and in considerations of the permission granted to them to operate, ride upon or otherwise use one or more motorcycles or other vehicles owned or controlled by Royalbison Autorentals India Pvt. Ltd., operating under the Rideit brand (collectively, the “Company”; each such company owned or controlled vehicle is referred to herein as a “C.O.C.V.”), and for other valuable considerations, the receipt and adequacy of which are hereby acknowledged, RELEASE, WAIVE AND FOREVER DISCHARGE the Company and each of their respective affiliated companies, subsidiaries, officers, directors, employees, dealers, distributors and agents (collective, the “Released Parties”), from ANY AND ALL CLAIMS, DEMANDS, RIGHTS AND CAUSES OF ACTION (Collectively, “Claims”) OF ANY KIND WHATSOEVER THAT THE RIDER OR ANY OF THEIR HEIRS AND ASSIGNS NOW HAVE OR LATER MAY HAVE AGAINST ANY RELEASED PARTY RESULTING FROM, CONNECTED WITH OR ARISING OUT OF THE USER’S OPERATION OF OR RIDING ON ANY C.O.C.V., REGARDLESS OF WHETHER SUCH CLAIMS RELATE TO THE DESIGN, MANUFACTURE, REPAIR, OPERATION OR MAINTENANCE OF ANY C.O.C.V. OR THE CONDITIONS, RULES, QUALIFICATIONS, INSTRUCTIONS OR PROCEDURES UNDER WHICH ANY C.O.C.V. IS USED, OR ANY OTHER CAUSE OR MATTER.</p>
-        <p>The rider(Lessee) acknowledges and understands that this Release EXTENDS TO AND RELEASES AND DISCHARGES ANY AND ALL CLAIMS they or any Heirs and Assigns have or later may have against the Released Parties resulting from or arising out of my operation or of riding on C.O.C.V.s including without limitation all such Claims resulting from the NEGLIGENCE of any Released Party, or arising from STRICT PRODUCT LIABILITY, or resulting from any BREACH OF ANY EXPRESS OR IMPLIED WARRANTY by any Released Party, and regardless of whether such Claims now exist or hereafter arise or are known or unknown, contingent or absolute, liquidated or unliquidated or foreseen or unforeseen, or arise by operation of law or otherwise.</p>
-        <p>The rider(Lessee) acknowledges and understands that by agreeing to this Release they and their Heirs and Assigns AGREE NOT TO USE any or all of the Released Parties for any injury, death or damage to myself, my property, any other person or such other person’s property resulting from or arising out of my operation of or riding on any C.O.C.V.s</p>
-        <p>The rider(Lessee) acknowledge that they have been advised of and agree to waive on their behalf and on behalf of their Heirs and Assigns, and fully understand the effect of such waiver, all benefits flowing from any state statute that would otherwise limit the scope of this release, which provides: “A general release does not extend to claims which[a person] does not know or suspect to exist in their favor at the time of executing the release, which if known by them must have materially affected their settlement with the released parties”.</p>
-        <p>The rider confirms that this release is intended to be as broad and inclusive as is permitted by law. The extent and the scope of this Release is unenforceable in any jurisdiction, said scope will, as to such jurisdiction only, be automatically limited to the extent necessary to make this Release enforceable in such jurisdiction, without invalidating any other person of this Release. The rider hereby waives any right to bargain for different release or waiver of liability terms.</p>
-        <br/>
-        <p>BY AGREEING TO THIS RELEASE, THE RIDER CERTIFIES THAT THEY HAVE READ THIS RELEASE AND FULLY UNDERSTAND IT AND NOT RELYING ON ANY STATEMENTS OR REPRESENTATION OF ANY OF THE RELEASED PARTIES, AND HAVE BEEN GIVEN THE OPPORTUNITY AND SUFFICIENT TIME TO READ AND ASK QUESTIONS REGARDING THIS RELEASE</p>
+        <p>
+          FOR OPERATORS AND PASSENGERS OF VEHICLES (INCLUDING PROTOTYPE
+          VEHICLES) OWNED OR CONTROLLED BY ROYAlBISON AUTORENTALS INDIA PVT LTD,
+          OPERATING UNDER THE Rideit BRAND.
+        </p>
+        <p>
+          The rider(Lessee) on behalf of all heirs, personal representatives,
+          administrators, executors, successors and assigns (collectively,
+          “Heirs and Assigns”), for and in considerations of the permission
+          granted to them to operate, ride upon or otherwise use one or more
+          motorcycles or other vehicles owned or controlled by Royalbison
+          Autorentals India Pvt. Ltd., operating under the Rideit brand
+          (collectively, the “Company”; each such company owned or controlled
+          vehicle is referred to herein as a “C.O.C.V.”), and for other valuable
+          considerations, the receipt and adequacy of which are hereby
+          acknowledged, RELEASE, WAIVE AND FOREVER DISCHARGE the Company and
+          each of their respective affiliated companies, subsidiaries, officers,
+          directors, employees, dealers, distributors and agents (collective,
+          the “Released Parties”), from ANY AND ALL CLAIMS, DEMANDS, RIGHTS AND
+          CAUSES OF ACTION (Collectively, “Claims”) OF ANY KIND WHATSOEVER THAT
+          THE RIDER OR ANY OF THEIR HEIRS AND ASSIGNS NOW HAVE OR LATER MAY HAVE
+          AGAINST ANY RELEASED PARTY RESULTING FROM, CONNECTED WITH OR ARISING
+          OUT OF THE USER’S OPERATION OF OR RIDING ON ANY C.O.C.V., REGARDLESS
+          OF WHETHER SUCH CLAIMS RELATE TO THE DESIGN, MANUFACTURE, REPAIR,
+          OPERATION OR MAINTENANCE OF ANY C.O.C.V. OR THE CONDITIONS, RULES,
+          QUALIFICATIONS, INSTRUCTIONS OR PROCEDURES UNDER WHICH ANY C.O.C.V. IS
+          USED, OR ANY OTHER CAUSE OR MATTER.
+        </p>
+        <p>
+          The rider(Lessee) acknowledges and understands that this Release
+          EXTENDS TO AND RELEASES AND DISCHARGES ANY AND ALL CLAIMS they or any
+          Heirs and Assigns have or later may have against the Released Parties
+          resulting from or arising out of my operation or of riding on
+          C.O.C.V.s including without limitation all such Claims resulting from
+          the NEGLIGENCE of any Released Party, or arising from STRICT PRODUCT
+          LIABILITY, or resulting from any BREACH OF ANY EXPRESS OR IMPLIED
+          WARRANTY by any Released Party, and regardless of whether such Claims
+          now exist or hereafter arise or are known or unknown, contingent or
+          absolute, liquidated or unliquidated or foreseen or unforeseen, or
+          arise by operation of law or otherwise.
+        </p>
+        <p>
+          The rider(Lessee) acknowledges and understands that by agreeing to
+          this Release they and their Heirs and Assigns AGREE NOT TO USE any or
+          all of the Released Parties for any injury, death or damage to myself,
+          my property, any other person or such other person’s property
+          resulting from or arising out of my operation of or riding on any
+          C.O.C.V.s
+        </p>
+        <p>
+          The rider(Lessee) acknowledge that they have been advised of and agree
+          to waive on their behalf and on behalf of their Heirs and Assigns, and
+          fully understand the effect of such waiver, all benefits flowing from
+          any state statute that would otherwise limit the scope of this
+          release, which provides: “A general release does not extend to claims
+          which[a person] does not know or suspect to exist in their favor at
+          the time of executing the release, which if known by them must have
+          materially affected their settlement with the released parties”.
+        </p>
+        <p>
+          The rider confirms that this release is intended to be as broad and
+          inclusive as is permitted by law. The extent and the scope of this
+          Release is unenforceable in any jurisdiction, said scope will, as to
+          such jurisdiction only, be automatically limited to the extent
+          necessary to make this Release enforceable in such jurisdiction,
+          without invalidating any other person of this Release. The rider
+          hereby waives any right to bargain for different release or waiver of
+          liability terms.
+        </p>
+        <br />
+        <p>
+          BY AGREEING TO THIS RELEASE, THE RIDER CERTIFIES THAT THEY HAVE READ
+          THIS RELEASE AND FULLY UNDERSTAND IT AND NOT RELYING ON ANY STATEMENTS
+          OR REPRESENTATION OF ANY OF THE RELEASED PARTIES, AND HAVE BEEN GIVEN
+          THE OPPORTUNITY AND SUFFICIENT TIME TO READ AND ASK QUESTIONS
+          REGARDING THIS RELEASE
+        </p>
       </div>
     </>
   );
